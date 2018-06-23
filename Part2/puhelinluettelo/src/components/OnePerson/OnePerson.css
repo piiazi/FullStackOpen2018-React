@@ -1,0 +1,10 @@
+.OnePersonButton {
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 5px 10px;
+}

@@ -1,0 +1,32 @@
+.App {
+    padding: 100px 50px;
+
+}
+
+.FindCountriesInfoText {
+    color: blue;
+    font-size: 15px;
+}
+
+.FindCountriesResult {
+    color: green;
+    font-size: 15px;
+}
+
+.CountryNames {
+    font-weight: 700;
+
+}
+
+.CountryDetails {
+    display: inline-block;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.CountryFlag {
+    display: inline-block;
+    height: 200px;
+    width: auto;
+    margin-top: 20px;
+}
